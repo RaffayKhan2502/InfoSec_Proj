@@ -37,6 +37,6 @@ Ensure you have the following installed:
    python app.py
 ---
 ## Demo
-2. Live demo at:
+Live demo at:
    ```bash
    https://huggingface.co/spaces/RaffayUnreal/InfoSec
