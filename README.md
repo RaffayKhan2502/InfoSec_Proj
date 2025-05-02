@@ -35,6 +35,8 @@ Ensure you have the following installed:
 3. Run the code:
    ```bash
    python app.py
-
-
-
+---
+## Demo
+2. Live demo at:
+   ```bash
+   https://huggingface.co/spaces/RaffayUnreal/InfoSec
